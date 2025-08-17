@@ -19,7 +19,7 @@ Brief description of your portfolio website and its purpose.
 - [Additional features you implemented]
 
 ## Live Demo
-[Your deployed website URL]
+https://peawzaza.github.io/my-portfolio-01/
 
 ## Local Development
 ```bash

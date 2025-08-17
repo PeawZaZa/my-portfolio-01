@@ -1,4 +1,4 @@
-// src/components/Header/Header.jsx
+// src/components/Header/Header.jsx .
 import { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
 import { useTheme } from '../../contexts/ThemeContext';

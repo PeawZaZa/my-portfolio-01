@@ -1,4 +1,4 @@
-// src/components/Contact/Contact.jsx - Template
+// src/components/Contact/Contact.jsx - Template .
 import './Contact.css';
 
 function Contact() {

@@ -1,4 +1,4 @@
-// src/App.jsx
+// src/App.jsx .
 import { useEffect } from 'react';
 import { ThemeProvider } from './contexts/ThemeContext';
 import Header from './components/Header/Header';
